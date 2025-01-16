@@ -114,5 +114,5 @@ For any questions or support, feel free to contact:
 - **Name:** Rishi Ponda
 - **Email:** rishiponda2004@gmail.com
 - **Linkedin:** www.linkedin.com/in/rishi-ponda-625a30222
-- **GitHub:** https://github.com/rishi0588
+- **GitHub:** [https://github.com/rishi0588](https://github.com/rishi0588/-College-Attendance-Tracker.git)
 
