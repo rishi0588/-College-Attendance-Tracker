@@ -1,7 +1,7 @@
 # Project Name: College Attendance Tracker
 
 ## Project Description
-A web-based application to manage student attendance. Professors can log in, select divisions (Div A / Div B), mark attendance, and view detailed monthly attendance reports. The system also allows adding or removing students from the database.
+A web-based application to manage student attendance. Professors can log in, mark attendance, and view detailed monthly attendance reports. The system also allows adding or removing students from the database.
 
 ---
 
